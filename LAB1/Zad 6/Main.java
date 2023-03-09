@@ -1,9 +1,16 @@
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
 
-        int pLiczba = 1;
-        int dlugosc = 8;
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
+        System.out.println("Podaj długość tablicy...");
+        int dlugosc = scanner.nextInt();
+        System.out.println("Podaj pierwszy element tablicy...");
+        int pLiczba = scanner.nextInt();
+        scanner.close();
+
         int[] x = new int[dlugosc];
 
         for (int k = 0; k < dlugosc; k++) {
@@ -20,6 +27,8 @@ public class Main {
             }
 
         }
+
+        System.out.println('\n');
 
         for (int i = 0; i < x.length; i++) {
             System.out.println(x[i]);
