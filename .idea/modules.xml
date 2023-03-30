@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/LAB1/LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/LAB2/LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB3 (ocenione)/src/LAB3 (ocenione).iml" filepath="$PROJECT_DIR$/LAB3 (ocenione)/src/LAB3 (ocenione).iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/LAB5.iml" filepath="$PROJECT_DIR$/LAB5/LAB5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POJ.iml" filepath="$PROJECT_DIR$/.idea/POJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 1/Zad 1.iml" filepath="$PROJECT_DIR$/LAB5/Zad 1/Zad 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 2/Zad 2.iml" filepath="$PROJECT_DIR$/LAB5/Zad 2/Zad 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 3/Zad 3.iml" filepath="$PROJECT_DIR$/LAB5/Zad 3/Zad 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 4/Zad 4.iml" filepath="$PROJECT_DIR$/LAB5/Zad 4/Zad 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 5/Zad 5.iml" filepath="$PROJECT_DIR$/LAB5/Zad 5/Zad 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 1/Zadanie 1.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 1/Zadanie 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB4/Zadanie 1/Zadanie 11.iml" filepath="$PROJECT_DIR$/LAB4/Zadanie 1/Zadanie 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 2/Zadanie 2.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 2/Zadanie 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB4/Zadanie 2/Zadanie 21.iml" filepath="$PROJECT_DIR$/LAB4/Zadanie 2/Zadanie 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 3/Zadanie 3.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 3/Zadanie 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 4/Zadanie 4.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 4/Zadanie 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB3 (ocenione)/src/Zadanie 4/Zadanie 41.iml" filepath="$PROJECT_DIR$/LAB3 (ocenione)/src/Zadanie 4/Zadanie 41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 5/Zadanie 5.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 5/Zadanie 5.iml" />
     </modules>
   </component>
 </project>
