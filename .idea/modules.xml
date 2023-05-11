@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAB 10/LAB 10.iml" filepath="$PROJECT_DIR$/LAB 10/LAB 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB 9/LAB 9.iml" filepath="$PROJECT_DIR$/LAB 9/LAB 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/LAB1/LAB1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/LAB2/LAB2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB3 (ocenione)/src/LAB3 (ocenione).iml" filepath="$PROJECT_DIR$/LAB3 (ocenione)/src/LAB3 (ocenione).iml" />
@@ -14,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/LAB8/Z2/Z2.iml" filepath="$PROJECT_DIR$/LAB8/Z2/Z2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB8/Z3/Z3.iml" filepath="$PROJECT_DIR$/LAB8/Z3/Z3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB8/Z4/Z4.iml" filepath="$PROJECT_DIR$/LAB8/Z4/Z4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB 9/Za1/Za1.iml" filepath="$PROJECT_DIR$/LAB 9/Za1/Za1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB 9/Za2/Za2.iml" filepath="$PROJECT_DIR$/LAB 9/Za2/Za2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB 9/Za3/Za3.iml" filepath="$PROJECT_DIR$/LAB 9/Za3/Za3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 1/Zad 1.iml" filepath="$PROJECT_DIR$/LAB5/Zad 1/Zad 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 2/Zad 2.iml" filepath="$PROJECT_DIR$/LAB5/Zad 2/Zad 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB5/Zad 3/Zad 3.iml" filepath="$PROJECT_DIR$/LAB5/Zad 3/Zad 3.iml" />
@@ -23,11 +28,16 @@
       <module fileurl="file://$PROJECT_DIR$/LAB7/Zad2/Zad2.iml" filepath="$PROJECT_DIR$/LAB7/Zad2/Zad2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB7/Zad3/Zad3.iml" filepath="$PROJECT_DIR$/LAB7/Zad3/Zad3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB7/Zad4/Zad4.iml" filepath="$PROJECT_DIR$/LAB7/Zad4/Zad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB 10/Zadania/Zada 5/Zada 5.iml" filepath="$PROJECT_DIR$/LAB 10/Zadania/Zada 5/Zada 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB 10/Zadania/Zadania.iml" filepath="$PROJECT_DIR$/LAB 10/Zadania/Zadania.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 1/Zadanie 1.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 1/Zadanie 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB9/Zadanie 1./Zadanie 1..iml" filepath="$PROJECT_DIR$/LAB9/Zadanie 1./Zadanie 1..iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB4/Zadanie 1/Zadanie 11.iml" filepath="$PROJECT_DIR$/LAB4/Zadanie 1/Zadanie 11.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 2/Zadanie 2.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 2/Zadanie 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB9/Zadanie 2./Zadanie 2..iml" filepath="$PROJECT_DIR$/LAB9/Zadanie 2./Zadanie 2..iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB4/Zadanie 2/Zadanie 21.iml" filepath="$PROJECT_DIR$/LAB4/Zadanie 2/Zadanie 21.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 3/Zadanie 3.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 3/Zadanie 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB9/Zadanie 3./Zadanie 3..iml" filepath="$PROJECT_DIR$/LAB9/Zadanie 3./Zadanie 3..iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 4/Zadanie 4.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 4/Zadanie 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB3 (ocenione)/src/Zadanie 4/Zadanie 41.iml" filepath="$PROJECT_DIR$/LAB3 (ocenione)/src/Zadanie 4/Zadanie 41.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/Zadanie 5/Zadanie 5.iml" filepath="$PROJECT_DIR$/LAB1/Zadanie 5/Zadanie 5.iml" />
